@@ -1,0 +1,6 @@
+[submodule "juice-backend"]
+	path = juice-backend
+	url = https://github.com/Omargazzah02/juice-back.git
+[submodule "juice-frontend"]
+	path = juice-frontend
+	url = https://github.com/Omargazzah02/juice-front.git
